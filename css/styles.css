@@ -84,7 +84,7 @@ body {
   content: "";
   position: absolute;
   left: 0;
-  bottom: -28px;
+  bottom: -30px;
   width: 100%;
   height: 4px;
   background-color: var(--Pressed-state-color);
