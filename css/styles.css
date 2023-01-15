@@ -500,7 +500,7 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.footer-item .soc-link {
+.footer .soc-link {
   background-color: rgba(255, 255, 255, 0.1);
   transition-property: background-color;
   transition-duration: 250ms;
